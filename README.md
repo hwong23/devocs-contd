@@ -1,3 +1,0 @@
-# devocs-contd
-devocs-contd
-...
